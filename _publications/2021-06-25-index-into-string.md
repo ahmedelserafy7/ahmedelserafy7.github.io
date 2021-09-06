@@ -2,7 +2,8 @@
 title: "Is Trying to index into String really hard?"
 collection: publications
 permalink: /publication/2021/index-into-string
-excerpt:  'Since Swift 2,`String` does no longer conform to `SequenceType`.In other words, you can not iterate through a string with a `for...in` loop.'
+excerpt:  'Since Swift 2,`String` does no longer conform to `SequenceType`.In other words, you can not iterate through a string with a `for...in` loop. In this article I tried to set an easy way, put down my workaround to solve this problem.
+'
 date: 2021-06-25
 venue: 'Medium'
 link: 'https://medium.com/@ahmed.samer43/is-trying-to-index-into-string-really-hard-eea704893258'

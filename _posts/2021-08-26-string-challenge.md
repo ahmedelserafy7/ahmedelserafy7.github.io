@@ -1,5 +1,5 @@
 ---
-title: String Challenge
+title: String Challenge Explained
 date: 2021-08-26
 permalink: /posts/2021/08/string-challenge
 excerpt: "Let's solve this challenge."

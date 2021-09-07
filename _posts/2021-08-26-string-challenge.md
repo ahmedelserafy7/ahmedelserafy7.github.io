@@ -31,7 +31,7 @@ If a string is not nested correctly, return the first element encountered where,
 
 <div class="notice--danger">
 
-{{ notice-text \| markdownify }}
+{{ notice-text | markdownify }}
 
 </div>
 

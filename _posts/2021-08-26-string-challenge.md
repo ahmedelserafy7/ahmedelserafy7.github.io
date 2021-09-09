@@ -46,7 +46,7 @@ array and using its `append()` and `popLast()` methods.
 
 ## First steps
 
-First things first, we need to filter/strip out text between brackets like "test test test", and also remove angle brackets because it's no important here. If you want to keep it you can, but you'll sustain angle brackets non-removal pain.
+First things first, we need to filter/strip out text between brackets like "test test test", and also remove angle brackets because it's not important here. If you want to keep it you can, but you'll sustain angle brackets non-removal pain.
 
 So we need to check if there's any text between brackets, we'll remove it. First we'll convert `input` string to array to get the benefit of index.
 

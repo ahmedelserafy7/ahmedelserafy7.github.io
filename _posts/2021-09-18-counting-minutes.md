@@ -109,7 +109,7 @@ func countingMinutes(str: String) {
     <td>
     <b>Input</b>: 10:00am-9:00pm. 
     <br>
-    <b>Explaination</b>: 10am gives you 600 minutes, and 9:00pm gives you 1260. So the second time has more minutes than the first one, so we'll return 1260 - 600 = 660.
+    <b>Explanation</b>: 10am gives you 600 minutes, and 9:00pm gives you 1260. So the second time has more minutes than the first one, so we'll return 1260 - 600 = 660.
     <br>
     <b>Output</b>: 660</td>
 </table>
@@ -118,7 +118,7 @@ func countingMinutes(str: String) {
     <td>
     <b>Input</b>: 10:00pm-9:00pm. 
     <br>
-    <b>Explaination</b>: 10:00pm gives you 1320 minutes, and 9:00pm gives you 1260. So the first time has more minutes than the second one, so we'll return (1440 - 1320) + 1260) = 120 + 1260 = 1380.
+    <b>Explanation</b>: 10:00pm gives you 1320 minutes, and 9:00pm gives you 1260. So the first time has more minutes than the second one, so we'll return (1440 - 1320) + 1260) = 120 + 1260 = 1380.
     <br>
     <b>Output</b>: 1380</td>
 </table>
@@ -127,7 +127,7 @@ func countingMinutes(str: String) {
     <td>
     <b>Input</b>: 10:30pm-9:00am. 
     <br>
-    <b>Explaination</b>: 10:30pm gives you 1350 minutes, and 9:00am gives you 540. So the first time has more minutes than the second one, so we'll return (1440 - 1350) + 540) = 90 + 540 = 630.
+    <b>Explanation</b>: 10:30pm gives you 1350 minutes, and 9:00am gives you 540. So the first time has more minutes than the second one, so we'll return (1440 - 1350) + 540) = 90 + 540 = 630.
     <br>
     <b>Output</b>: 630</td>
 </table>

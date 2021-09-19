@@ -27,7 +27,7 @@ To solve this problem, you need to divide the problem into two parts:
 
 <h2>Let's dive into the first part</h2>
 
-First things first, we'll create `convertHoursToMinutes(str:)` function to get number of minutes out of hours.
+First things first, we'll create `convertHoursToMinutes(str:)` function to return the number of hours in minutes.
 
 
 ```swift

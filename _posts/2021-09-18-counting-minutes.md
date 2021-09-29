@@ -74,7 +74,7 @@ Now that you converted the hours into minutes.
 
 <h2>Let's go to the second part</h2>
 
- Back to the the main function `countingMinutes(str:)`. You have this string **10:00am-9:00pm** which expresses two different times, and you need to count the total minutes between them. So first split the two times individually by a hyphen/dash/minus using `split(separator:)` as well. extract the first time from `timesSplit` array, and convert this time from the `Substring` to `String`. By doing that you can use `convertHoursToMinutes(str:)` function to get the minutes from the first time, and the second time as well.
+ Back to the the main function `countingMinutes(str:)`. You have this string **10:00am-9:00pm** which expresses two different times, and you need to count the total minutes between them. So first split the two times individually by a hyphen/dash/minus using `split(separator:)` as well. To access the first/second time of `timesSplit` array you need to use index as subscript on the `timesSplit` array variable, and convert this time from the `Substring` to `String`. By doing that you can use `convertHoursToMinutes(str:)` function to get the minutes from the first time, and the second time as well.
 
  Now that you need to check if the first time is less than the second one. If so, then get the difference between them by subtracting the first time from the second time. Otherwise the first time has more minutes than the second one, so you'll need to measure the whole day in minutes, and subtract the first time from the whole day to estimate how many minutes that remain in the day, and then add the next day which represents second time in minutes.
 

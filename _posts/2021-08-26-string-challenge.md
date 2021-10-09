@@ -83,7 +83,7 @@ Once we've done that, the next step is to go checking the opposite angle bracket
 
 To **Remove** this text: We can do that by iterating over the text from the element/character that is next to closing bracket until we find opening bracket. All this text we'll remove it from the `inputArr`.
 
-After we get to that point we need to go through other elements by `continue`, because we know it's opening bracket for sure, and has tag element inside it, so we don't need touch them.
+After we get to that point we need to go through other elements by `continue`, because we know it's opening bracket for sure, and has tag element inside it, so we don't need to touch them.
 
 ![](https://i0.wp.com/media1.giphy.com/media/LPn77YyDIqfhm/giphy.gif){: .align-center }
 

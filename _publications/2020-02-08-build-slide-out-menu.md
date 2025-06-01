@@ -2,8 +2,8 @@
 title: "How to build Slide Out Menu in Swift?"
 collection: publications
 permalink: /publication/2021/build-slide-out-menu
-excerpt: 'When you’re asked to build Slide Out, the first thing that you think is to bridge SWRevealViewController in your project, but hold on.
-Have you ever thought how to build Slide Out Menu from scratch before?
+excerpt: 'When you’re asked to build Slide Out, the first thing that you think is to bridge SWRevealViewController<br> in your project, but hold on.
+Have you ever thought how to build Slide Out Menu from scratch before?<br>
 In this article we’ll learn how to build Slide-Out to use it in your app, so Let’s dive into the code.'
 date: 2020-02-08
 venue: 'Nerd For Tech'

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ahmed Elserafy"
 title_separator          : "-"
 name                     : &name "Ahmed Elserafy"
-description              : &description "iOS Developer"
+description              : &description "Senior iOS Developer"
 url                      : https://ahmedelserafy7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahmedelserafy7/ahmedelserafy7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ahmed Elserafy"
   avatar           : "profile.jpg"
-  bio              : "iOS Developer"
+  bio              : "Senior iOS Developer"
   location         : "Cairo, Egypt"
   employer         :
   pubmed           :
